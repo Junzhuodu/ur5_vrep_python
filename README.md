@@ -16,5 +16,5 @@ Make sure you have following files in your directory, in order to run the variou
 3. the appropriate remote API library: "remoteApi.dll" (Windows), "remoteApi.dylib" (Mac) or "remoteApi.so" (Linux)
 
 * Open ur5_pickup.ttt in vrep and start the simulation. If everything goes well, you will see the scene as below.
-[image_0]: ./Images/001.png
+[image_0]: https://github.com/Junzhuodu/ur5_vrep_python/blob/master/Images/001.png
 * Run gotoTarget.py / gotoPosition.py 
