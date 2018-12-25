@@ -2,10 +2,6 @@ import vrep
 import numpy as np
 import math
 
-# data = np.genfromtxt("data.txt")
-# data = np.around(data, decimals=4)
-# data = data.tolist()
-
 print ('Program started')
 vrep.simxFinish(-1) # just in case, close all opened connections
 clientID=vrep.simxStart('127.0.0.1',19997,True,True,-500000,5) # Connect to V-REP, set a very large time-out for blocking commands
