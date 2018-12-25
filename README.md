@@ -15,3 +15,4 @@ Make sure you have following files in your directory, in order to run the variou
 2. vrepConst.py
 3. the appropriate remote API library: "remoteApi.dll" (Windows), "remoteApi.dylib" (Mac) or "remoteApi.so" (Linux)
 
+* Run gotoTarget.py / gotoPosition.py 
