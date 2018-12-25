@@ -2,6 +2,7 @@ import vrep
 import numpy as np
 import math
 
+#Read position information
 data = np.genfromtxt("data.txt")
 data = np.around(data, decimals=2)
 data = data.tolist()
