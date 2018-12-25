@@ -5,3 +5,8 @@ Use python and Vrep to do the path planning for ur5 robot
 
 # Installation
 Install vrep, see the website at http://www.coppeliarobotics.com/downloads.html for installation instructions.
+
+# Requirements
+Python
+Numpy
+
